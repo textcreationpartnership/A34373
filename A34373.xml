@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contemplations on the love of God, &amp;c. with a devout prayer sutable thereunto</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34373</idno>
+            <idno type="STC">Wing C5952</idno>
+            <idno type="STC">ESTC R40866</idno>
+            <idno type="EEBO-CITATION">19525222</idno>
+            <idno type="OCLC">ocm 19525222</idno>
+            <idno type="VID">108967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1684:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Contemplations on the love of God, &amp;c. with a devout prayer sutable thereunto</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Keble ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love --  Religious aspects --  Christianity.</term>
+               <term>Prayers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108967:1" rendition="simple:additions"/>
+            <p>
+               <hi>Contemplations</hi> ON THE LOVE OF GOD, &amp;c.</p>
+            <p>WITH A <hi>DEVO<g ref="char:V">Ʋ</g>T PRAYER</hi> Sutable thereunto.</p>
+            <q>
+               <p>God is Love.</p> 
+               <bibl>1 Joh. 4. 8.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Keble</hi> at the <hi>Turks<g ref="char:EOLhyphen"/>head</hi> in <hi>Fleet-ſtreet.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:108967:2"/>
+            <pb n="1" facs="tcp:108967:2"/>
+            <head>Contemplations ON THE LOVE of GOD, <hi>&amp;c.</hi>
+            </head>
+            <p>REligion is all Love, and Love is the whole of Religion; whoever loves as he ſhould, lives as he ſhould. Love is the Per<g ref="char:EOLhyphen"/>fection of Angels, the Happineſs of Heaven, the Duty and the Reward of Religion.</p>
+            <p>LOVE is the higheſt Progreſs that can be made in Religion, its utmoſt Advances are Love; and the Diffe<g ref="char:EOLhyphen"/>rence betwixt Heaven and Earth, is only more Love. Love will do and ſuffer all Things; 'twill make our Duty our Joy; 'twill mingle Heaven with this Life, and make our Obe<g ref="char:EOLhyphen"/>dience choice; and raviſh us with Beauty, and inflame us with Deſires after that which is beſt and faireſt; and draw our Souls up to Heaven, while our Bodies are groveling here on Earth. Love can it ſelf engrave
+<pb n="2" facs="tcp:108967:3"/> an Heaven in the Soul here on Earth, and enrich it with unſpeakable Joys; without Love we are dead, with it we are immortal, and in Heaven, even before Death. Love will do and ſufter all Things that are pleaſing to the infinitely Beloved; 'twill be pleas'd more with Sufferings than with Happineſs and Pleaſure, when it believes that to be more pleaſing to the Beloved; and 'tis the infinite<g ref="char:EOLhyphen"/>ly Beloved from whence this Love comes, and who beſtows this beſt of Gifts, this Joy of Angels, this Beauty and Glory of Heaven it ſelf: From hence is the little Peace that is to be found on Earth, and thoſe many ſecret Paradiſes in the Soul of good Men; hence the Beauty and Order of the Mind; hence the Agonies of a flaming and impatient Hope; hence the Ardors of Faith, and the Evidence of Things not ſeen, but believed, by the Lover on the Word of the Beloved; hence Victory and Triumph in Miſery, or in Torments; hence Hope againſt Hope; hence we truſt in God, though he ſhould ſlay us, and are aſſured
+<pb n="3" facs="tcp:108967:3"/> that our Redeemer lives, and ceaſes not to make interceſſion for us; hence Temples, Altars, and Vows, and all the burning Solitary Loves of the Ancient Hermits; and hence the holy Cities in the Deſarts, and the Sacred Crowds in the Wilderneſs; hence <hi>Anthony</hi> and <hi>Paul,</hi> and the <hi>Ma<g ref="char:EOLhyphen"/>charii</hi> Wonders; hence <hi>Simeon, Moſes,</hi> and <hi>Hillaryon</hi> to be had in everlaſting Memory, and much the holy St. <hi>Je<g ref="char:EOLhyphen"/>rom,</hi> and the more excellent <hi>Caſſianus,</hi> have endeavoured it. From Love is all the Happineſs of both the Worlds; by it Death is ſmiling, and chearful as Life, and more deſirable, as lead<g ref="char:EOLhyphen"/>ing to the Sight of the ſo much Be<g ref="char:EOLhyphen"/>loved, from whom Life detained; if we loved much, we would do and ſuffer any Thing for the Be<g ref="char:EOLhyphen"/>loved; and to prove our Love, we ſhould delight in Difficulties, and court Hardſhips, and provoke the Enemies of God our Beloved. 'Tis Love that conquers Sin, and pur<g ref="char:EOLhyphen"/>ſues the Heights of Vertue, and the Purity of Heaven, even in this Life;
+<pb n="4" facs="tcp:108967:4"/>
+'tis Love, aſſiſted by the dear Belo<g ref="char:EOLhyphen"/>ved, that reſiſts unto Death, and in Tortures refuſes Deliverance, that it may behold the Face of the Beloved, and ſee the Face that burnt the Heart, and turned Love into Mar<g ref="char:EOLhyphen"/>tyrdom.</p>
+            <p>By Love we uſually believe and receive whatſoever our Religion de<g ref="char:EOLhyphen"/>livers to us, as knowing it to be the Voice of the Beloved, who will not, who cannot deceive us; but is our Light as well as our Life; our Way as well as our Friend; who will guide us with his Love, and direct us by his Kindneſs, how to Love, and what to Believe. By Love we cut off all Infidelity and Diſtruſt, Obſtinacy and Pride, the Vanity of our own Judgment, and the oppoſing Humility of Faith, with the Arro<g ref="char:EOLhyphen"/>gance of Reaſon, and the Inſolence of Diſcourſe. Love makes us ſuffer Chearſully whatſoever is ſent for the Tryal of our Love, and Rejoices at the Occaſion. Love is reſtleſs while it breathes on Earth, and is kept from its Beloved, who is all its Joy,
+<pb n="5" facs="tcp:108967:4"/> and all its Life, and all its Hope, and the very <hi>Shots</hi> of the other Life; its greateſt Pleaſure, and its main Support. Love inſtructs us in every Duty, and takes off the Difficulty, and inhances the Reward; it gives Strength and Faith, Courage and Perſeverance, and gives us a large and charming Proſpect of Heaven, though at ſo great a Diſtance; it de<g ref="char:EOLhyphen"/>lights in Labours, and increaſes by Oppoſition; is never Tired, never Faints, is never Overcome; ſtill Hopes, ſtill Rejoices, and ſtill Per<g ref="char:EOLhyphen"/>ſeveres to the End. By Love we pray with Faith, and receive the Things asked for, becauſe we believe we ſhould; and 'twas Love that made us believe: It makes us Sin<g ref="char:EOLhyphen"/>cere and Conſtant, Humble and Ge<g ref="char:EOLhyphen"/>nerous, Kind and Good; and with<g ref="char:EOLhyphen"/>out it we are Obſtinate and Sullen, Untractable and Conceined, Dull and Confident, Preſumptuous and Unprofitable, Unhappy to our ſelves as well as others, Ungenerous, Un<g ref="char:EOLhyphen"/>manly, without Religion, without Angels, without a God, loſt to all
+<pb n="6" facs="tcp:108967:5"/> the Comforts of this Life, and the immortal Joys of that to come; Ba<g ref="char:EOLhyphen"/>ſtards inſtead of Heirs, Oppreſſive and Uncharitable, Mean and Ambi<g ref="char:EOLhyphen"/>tious, Baſe yet Proud, Arrogant yet Ignoble.</p>
+            <p>By Love we enter upon the Life of Angels, and taſte the Joys of Hea<g ref="char:EOLhyphen"/>ven, and burn in Charity with Che<g ref="char:EOLhyphen"/>rubims, and grow above this mortal Life, and all its little Concerns, and become Denizens of the new <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> the everlaſting City, and con<g ref="char:EOLhyphen"/>verſe with the bleſſed and immortal Spirits; Flaming in Love like them, ſtill Praiſing, ſtill Adoring: Tri<g ref="char:EOLhyphen"/>umphing with the Martyrs, Re<g ref="char:EOLhyphen"/>joicing with the Confeſſors, Loving with the Angels, Panting with the Cherubims, Singing with the Sera<g ref="char:EOLhyphen"/>phims, Adoring with the Thrones, Ray'd with Love, Clad with Glory, Exalted by Muſick, Raiſed by Hymns now greater than Crowns, and all this World; earneſt for the glorious Inheritance, and impatient for the fulneſs of the Joy, we have already ſo largely talked of.</p>
+            <pb n="7" facs="tcp:108967:5"/>
+            <p>'Tis Love that fills the Mind with charming Notions, and the brighteſt Images: She is the Miſtreſs of Con<g ref="char:EOLhyphen"/>cord, and Societies of Peace and Har<g ref="char:EOLhyphen"/>mony, of real Joys, and laſting Sa<g ref="char:EOLhyphen"/>tisfactions; from Love are all the pureſt Notions of Vertue and Wor<g ref="char:EOLhyphen"/>ſhip, of Adoration and Obedience: She is the faireſt Guide, and moſt charming Friendſhip, and the wiſeſt Inſtructor. By Love the World is ruled, and Violence ſuppreſt, and Government maintained, and Order is preſerved, and Kingdoms ſtand, and Commonwealths obey'd; for without Love, Laws would be of little Strength, and Force and Ma<g ref="char:EOLhyphen"/>lice would turn all into Confuſion and Anarchy, and fill the World with Murther and Rapine, Violence and Oppreſſion, Fury and Slaughter.</p>
+            <p>Love is the Way of the Perfect, and leads through the brighteſt Paths to dazling Glory, and inexpreſſible Bliſs; which nothing in this World ſo nearly reſembles as Love, and perhaps it's only more Love that makes Heaven a happier Abode than
+<pb n="8" facs="tcp:108967:6"/> this dull Earth, that's over-run with Diſcourſe and Malice, with Rage and Revenge, with Folly and Vio<g ref="char:EOLhyphen"/>lence, with Darkneſs and Diſorder.</p>
+            <p>By Love we conquer all the Inju<g ref="char:EOLhyphen"/>ries and Calamities we meet with, and walk proſperouſly on our Way, diſſolving the Oppreſſor with Coals of Love, Returns of Kindneſs, and Surprizing Forgiveneſſes and Par<g ref="char:EOLhyphen"/>dons, while he was meditating a ſe<g ref="char:EOLhyphen"/>cond Miſchief, and a repeated though unprovok'd Evil, takes a better Heart, and a nobler Mind, and is melted in<g ref="char:EOLhyphen"/>to Love, and forc'd into a Friend.</p>
+            <p>By Love we not only bear our Tri<g ref="char:EOLhyphen"/>als but rejoice in them, as the Proofs of our Love, and our further Endear<g ref="char:EOLhyphen"/>ment to the Beloved; as Arguments of our Sincerity, and Opportunity to ſhew how much we Love, and how violently; and how much we are in Earneſt, and how much we would Endure, rather than be divorced from him, who came down from Heaven, and from all his Glory, to love us to Death.</p>
+            <p>By Love we die daily to this World,
+<pb n="9" facs="tcp:108967:6"/> and ſeek after the more perfect Love of the other; that our Breaſts may burn like Angels, and the Apoſtles, while the Prince of Love expounded the Scriptures; that we may arrive at his Sight who is <hi>the Faireſt among ten thouſand;</hi> that we may dwell on perfect Beauty for ever, and feignt with unmeaſurable Love, and endleſs flaming Vows, to the Beloved of our Souls; who draws us by all the ſtron<g ref="char:EOLhyphen"/>geſt Charms of Beauty and of Love, to live and die for him, to act and ſuffer every Thing, to ſeek nothing but the pleaſing him in whom our Love lives, moves, and has its Be<g ref="char:EOLhyphen"/>ing; and is reſtleſs till the Bars of Nature are broke, and the ſhining Way is laid open that leads to the Fountain of Love and Beauty, to the Rapture of our Souls, and to unſpeak<g ref="char:EOLhyphen"/>able Bliſs and Charms, that are vio<g ref="char:EOLhyphen"/>lent as Storms, and ſoft as Peace, and Muſick, and Sleep, and laſt as long as the new Heavens.</p>
+            <p>'Tis Love that makes all the Peace that is in the World, and cements Friendſhip, and makes them ſtronger
+<pb n="10" facs="tcp:108967:7"/> than Blood, and to act like Religion, and has produced Men greater than Heroes, and all the fleated Hiſtories of Antients, that delighted to abuſe themſelves and us, with Fables un<g ref="char:EOLhyphen"/>worthy to be told and heard by Men. Love does Things that deſire no Hi<g ref="char:EOLhyphen"/>ſtories, and are greater than all Hi<g ref="char:EOLhyphen"/>ſtory; and are well known in Hea<g ref="char:EOLhyphen"/>ven, and obſerved by Angels, though unknown on Earth, and concealed from Men: It tries, and diſcovers, and expoſes the Hypocrite, but re<g ref="char:EOLhyphen"/>nowns the Sincere, and gives them Strength and Perſeverance, and in<g ref="char:EOLhyphen"/>flames them with the brighteſt Paſ<g ref="char:EOLhyphen"/>ſions, and Charms to the nobleſt Ac<g ref="char:EOLhyphen"/>tions, and ſtrengthens them to the greateſt Sufferings, fixing their Hope, and confirming their F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith, and ma<g ref="char:EOLhyphen"/>king it bright and flaming, as the Manſions which no Eye has ſeen, but that of Faith; and puſhes them on to the nobleſt Undertaking, to attempt Things above Poetry, and beyond the Force of human Power: And ſuch the Martyrs often did, and ſuch the glorious Confeſſors, who raging
+<pb n="11" facs="tcp:108967:7"/> with Love, and tranſported with the moſt violent and deareſt Affections, to the Father, Son, and Spirit, ſought their beatifick Viſion through Racks and Fire, and mounted on Flames to Heaven.</p>
+            <p>'Tis Love that furniſhes Argu<g ref="char:EOLhyphen"/>ments to ſupport our Spirits, when broken and diſperſt by a hard and unkind World, that has always treat<g ref="char:EOLhyphen"/>ed Vertue hard, and the Righteous with the Portion of Sinners; their Love guilds the Storm, and pierces the Cloud with light; and, ſpeak<g ref="char:EOLhyphen"/>ing like our Saviour, rebukes the Wind, and bids the Sea be ſtill, and ſuffers not the Righteous to be as the Wicked; but diſtinguiſhes 'em in the Calamity, and ſnatches 'em out of the Fire, in which the Wicked are conſumed to Aſhes: But Love pre<g ref="char:EOLhyphen"/>ſerves its Martyrs, and its Confeſſors, and if they die they live for ever, and are crown'd for all their Sufferings; and the exceeding great Reward drowns the Labour, and covers the Martyrs with Pſalms, and he is loſt in Glory, and in Crowns, and ſhines
+<pb n="12" facs="tcp:108967:8"/> forth for ever, like the Sun <hi>in the Kingdom of the Father,</hi> and dies no more, but is equal to the Angels, be<g ref="char:EOLhyphen"/>ing born of the Reſurrection.</p>
+            <p>By Love we become eaſy to our ſelves, and others too, and the harſh<g ref="char:EOLhyphen"/>neſs of our Natures is worn off, and our very Blood is ſweetned as well as our Spirits; by it we diſmiſs our Hu<g ref="char:EOLhyphen"/>mours, and our Pride, and all the Contentions that enſue from thence, the Arrogance and Contempt, the great Opinion of our ſelves, and the little Value for others; the haughty Melancholy, and unſociable Meen and Carriage, that expects to be pleaſed in every Thing, and com<g ref="char:EOLhyphen"/>plies in nothing.</p>
+            <p>But Love is humble, and quiet as the Grave, and undiſturbed as the up<g ref="char:EOLhyphen"/>per Region of the Air, that's never torn nor driven by Storms and Tem<g ref="char:EOLhyphen"/>peſts; but is Smooth and Even, as the Face of Heaven; it receives the In<g ref="char:EOLhyphen"/>jury in Peace, and revenges it with Kindneſs; its Contentions are thoſe of rival Friendſhip, and an ambitious Generoſity; and as it receives every
+<pb n="13" facs="tcp:108967:8"/> Injury with Patience, ſo is careful to offer none; it has no Deſigns but to promote the Good of its Neighbour, which it always ſtudies, as its own; 'tis gentle, 'tis uſeful, 'tis pitiful, 'tis helpful; rejoices not in Iniquity, but rejoices in the Truth; bears with all Men, loves all Men, forgives all Men, obliges All.</p>
+            <p>By Love we bind the Furies of our Neighbour, and chain his Violence, and he is ſpent in Vain, like an angry Wave againſt a Rock, and his Paſ<g ref="char:EOLhyphen"/>ſion becomes as inſignificant as the airy Flame that floats upon the Face of the Waters, and he only rages a<g ref="char:EOLhyphen"/>gainſt his own Wiſdom and Glory, and for a Time prefers that Rage of a Beaſt, to the Order and Beauty of a Man, to the Glory and Empire of Reaſon, and to the Peace of God that dwells with the peaceful Soul.</p>
+            <p>By Love we delight in our Duty towards God, and towards Man. By Love every Thing is made eaſy, but nothing more ſo than our Duty, be<g ref="char:EOLhyphen"/>cauſe nothing is more capable; for in it is all our Intereſt, and our Happi<g ref="char:EOLhyphen"/>neſs,
+<pb n="14" facs="tcp:108967:9"/> and all our Hopes; in it embark all our Labours, and our Sweat, and Treaſure; and therefore nothing can be dearer to us than our Duty, and our Sufferings, and our Confeſſions, for his Name in whom we truſt; who in all our Sorrows will feed us with his Love, and inrich us with his Favour, and inable us with Crowns: He who bids us fight, will teach us to fight, and ſhew us how to conquer; and if we die in his Favour there is Life, and at his Right-hand there are unutter<g ref="char:EOLhyphen"/>able Pleaſures for evermore; Joys as violent as our Sufferings, and rending Tranſports, and over-powring Con<g ref="char:EOLhyphen"/>ſolations, that require an Enlarge<g ref="char:EOLhyphen"/>ment of our Souls to endure them, which elſe would burſt with Tor<g ref="char:EOLhyphen"/>ments of Delight, and Agonies of Pleaſure, and ſurious Bliſs.</p>
+            <p>By Love we underſtand what in every Circumſtance, and at all Times, is moſt pleaſing to the Beloved of our Souls; for nothing is more knowing than Love, that knows all Things by communication with the Beloved, and informs the humble Lover, who re<g ref="char:EOLhyphen"/>joices
+<pb n="15" facs="tcp:108967:9"/> in every intimation of the Di<g ref="char:EOLhyphen"/>vine Will, and deſires to perform it with Ardor. Love will direct beyond all the Learning in the World, which is never to be compared to Love, the brighteſt and higheſt Ornament of the Soul; 'tis Paradiſe on Earth, 'tis earth<g ref="char:EOLhyphen"/>ly Heaven, 'tis ſweeteſt Treaſure, 'tis golden Joy, and utmoſt Happineſs, next to God, to himſelf; and God himſelf is Love, and <hi>he who dwelleth in Love dwelleth in God,</hi> and he who dwelleth in God muſt needs dwell in Heaven too.</p>
+            <closer>Laus Deo.</closer>
+         </div>
+         <div type="prayer">
+            <head>
+               <hi>A Prayer to God,</hi> Which the Chriſtian Soul may make every Day, thereby to declare the Sentiments which ſhe deſires to have at the point of Death. Wherein are diſcover'd the Acts of all the higheſt Vertues, and eſpecially the Divine Vertue of Contrition, and a perfect Love of God.</head>
+            <p>O My Lord, and my God, in that un<g ref="char:EOLhyphen"/>uncertainty in which thou art pleaſed that I ſhould live, as well in relation to the Time and Place, as
+<pb n="16" facs="tcp:108967:10"/> Manner of my Death; I come to adore the Orders of thy Divine Providence, for what thou haſt appointed from all Eternity: And not knowing what the Sentiments of my Soul may be at that Hour, I do at preſent that which I deſire ſhould be done then, and I hum<g ref="char:EOLhyphen"/>bly pray thee to accept and ratify a<g ref="char:EOLhyphen"/>gainſt that time, what I declare and proteſt at preſent.</p>
+            <p>I give thee thanks, O my Lord, and my God, at this Inſtant, inſtead of the laſt Moment of my Life, when poſſibly being deprived both of Speech and Reaſon, I may not be able either to ſpeak or think of thee. I thank thee, Firſt, for giving me a Birth, and that I was not left without a Being. Secondly, That thou wert pleaſed that I ſhould be born in a Place among Chriſtians, and in a Time when the Light of the Goſpel is ſhining upon us, whereas thou might'ſt have cauſed my Nati<g ref="char:EOLhyphen"/>vity to have happened in an Age of Darkneſs, and in a Country of Infidels. Thirdly, That thou haſt regenerated me by Baptiſm, when thou might'ſt let me have died in my Mothers
+<pb n="17" facs="tcp:108967:10"/> Womb, as ſo many others have, be<g ref="char:EOLhyphen"/>fore they could receive it.</p>
+            <p>I adore thee, O my God, as the Ori<g ref="char:EOLhyphen"/>ginal of my Life in Nature, as the O<g ref="char:EOLhyphen"/>riginal of my Generation by Grace, as the laſt end of my Soul, and as my laſt Felicity in Glory! Thou art the firſt Verity, and I firmly believe what thou haſt ſaid: Thou art the Sovereign Fi<g ref="char:EOLhyphen"/>delity, and I inceſſantly hope what thou haſt promiſed: Thou art the Su<g ref="char:EOLhyphen"/>preme Goodneſs, and I love only, and would love only, that which thou art.</p>
+            <p>'Tis thou, O my God, Father, Son, and Holy Ghoſt, One in Eſſence, and Three in Perſons, who haſt Created me by the Effect of thy Power, who haſt Redeemed me by the Exceſs of thy Bounty, who haſt Sanctified me by the Infuſion of thy Grace, who haſt Guided me by the Conduct of thy Providence, and who haſt Ordained me to the Participation of thy Glory.</p>
+            <p>For this end thou haſt admitted me into the Boſom of the Church thy Spouſe, there thou haſt illuminated my Soul with thy pureſt Lights, there thou haſt unheld me with thy moſt
+<pb n="18" facs="tcp:108967:11"/> Holy Graces, there thou haſt touched me with thy moſt tender Motions, there thou haſt prepared for me thy moſt Venerable Sacraments, there thou haſt Fed me with the Sacred Body of <hi>Jeſus Chriſt,</hi> thy only Son my Saviour, and there thou haſt as often ſhowr'd down upon my Soul the Gifts and Graces of thy Divine Spirit.</p>
+            <p>O what Love! O what Benefactions! O what Condeſcentions! O what Fa<g ref="char:EOLhyphen"/>vour! O what Graces! O what Mer<g ref="char:EOLhyphen"/>cies have been vouchſafed to this poor Soul! That in return for ſo many Bleſ<g ref="char:EOLhyphen"/>ſings, (of which thou only knoweſt the Number and the Value) hath during the whole Courſe of its Life performed nothing but Impieties, Infidelities, In<g ref="char:EOLhyphen"/>gratitude, Iniquities and Crimes, ſur<g ref="char:EOLhyphen"/>paſſing in Number the Hairs of my Head, and Days of my Life.</p>
+            <p>But, O my Lord God, the more Shame belongs to me for having of<g ref="char:EOLhyphen"/>ſended, the more Glory is due to thee for pardoning my Offences: And Sins without number, like mine, require a Mercy without end, like thine.</p>
+            <pb n="19" facs="tcp:108967:11"/>
+            <p>And to ſuch an inexhauſtible Mercy I approach, repenting for having ſo long offended thee, my Lord and my God, ſo lately known thee, and ſo little loved thee.</p>
+            <p>Were I never to enjoy more Time than this Moment, I would imploy it all in the Love of thee, O Sovereign Goodneſs! Becauſe thou art what thou art, and becauſe thou only doſt merit the Love and Adoration of all thy Creatures.</p>
+            <p>'Tis for thy Sake alone, O eternal Love, who art ever Lovely, and never ſufficiently Beloved, that I deteſt all the Sins of my Life; becauſe they are contrary to thy adorable Sanctity<g ref="char:punc">▪</g> And I deteſt theſe Sins on the ſame Motive that my Lord <hi>Jeſus Chriſt</hi> de<g ref="char:EOLhyphen"/>teſted them at his Agony in the Gar<g ref="char:EOLhyphen"/>den; and on the ſame Motive on which thou, O my God, Father, Son, and Holy Ghoſt, One in Eſſence, and Three in Perſons, doſt deteſt them. And I humbly offer in Reparation of that Outrage and Diſpleaſure which mine Iniquities have done thee, the Love and Obedience of my Bleſſed
+<pb n="20" facs="tcp:108967:12"/> Saviour <hi>Jeſus Chriſt</hi> to atone for, and ſupply the Defects of mine.</p>
+            <p>In expiation of theſe Iniquities of my Life, I accept of Death, as a Tray<g ref="char:EOLhyphen"/>tor whom thou haſt moſt juſtly Con<g ref="char:EOLhyphen"/>demn'd to die; I accept the Deſtruc<g ref="char:EOLhyphen"/>tion of this Body, which has been the Foundation of ſo many Intemperan<g ref="char:EOLhyphen"/>ces, and the Subject of ſo many Sins; I accept of the Deſtruction of my whole Being, in Homage to that So<g ref="char:EOLhyphen"/>vereign Dominion which thou haſt over me; I accept of all Derelictions, all Bitterneſs of Spirit, all Anguiſhes, all Pains, all Temptations, and all Evils, (except only that of Sin and thy Diſpleaſure) as all the Satisfaction which I can pay thy Adorable Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>Not being able to do more, I beſeech thee, O my Lord, and my God, to re<g ref="char:EOLhyphen"/>member that I am the Work of thy Hands, the Purchaſe of thy Blood, the Conqueſt of thy Croſs, the Wages of thy Death, and the Effect of thy Love. To thy Death I unite mine, and to thy Love I unite mine; proteſting that I admit no Sentiments but thoſe which
+<pb n="21" facs="tcp:108967:12"/> are agreeable to the Faith of the Ca<g ref="char:EOLhyphen"/>tholick Church; and I diſclaim, O Lord, all hopes and dependance, but in thy Merits, Love, and Goodneſs.</p>
+            <p>If ever any Thing appears in my Ac<g ref="char:EOLhyphen"/>tions contrary to this, I diſavow it, I renounce it. And I deſire that the laſt Motion of my Heart may be a Motion of Adoration to do thee Homage for my Being, ſince that very Being be<g ref="char:EOLhyphen"/>longs more to thee than to my ſelf; O Father of Mercies, and God of all Comforts, under whoſe Command are all the Powers of my Soul, make my Life to expire in an Act of Love, raiſed by a clear Apprehenſion of thy Excel<g ref="char:EOLhyphen"/>lency and Goodneſs, and ſo vigorouſly exerted towards thee, the great and proper Object of Love, that being be<g ref="char:EOLhyphen"/>gun here it may continue to all Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>It is true, O my God, that after all this my Fears are great, becauſe my Crimes are ſo, and thy Judgments ve<g ref="char:EOLhyphen"/>ry terrible. But it is alſo true that not<g ref="char:EOLhyphen"/>withſtanding all thoſe Fears, yet my Hope is ſtill greater, ſince thou art merciful and apt to pardon; thy Mer<g ref="char:EOLhyphen"/>cy
+<pb n="22" facs="tcp:108967:13"/> is tranſcendently Great, and thou doſt Pardon without meaſure; thy Mercy is infinite, and thou doſt Par<g ref="char:EOLhyphen"/>don without end; thou art all Mercy, and Mercy it ſelf, and thou Par<g ref="char:EOLhyphen"/>doneſt all.</p>
+            <p>Full of this raviſhing and moſt ſweet Confidence which I have in thee, I hope to ſee thy Bleſſings in the Land of the Living, where thou art the Re<g ref="char:EOLhyphen"/>ſurrection and the Life; and Adoring again thy Power that Created me, thy Goodneſs that Redeemed me, thy Wiſdom which hath Enlightned me, thy Providence which hath Governed me, thy Mercy which hath Forgiven me ſo many Sins. I Adore alſo thy Juſtice; and I ſubmit my ſelf intirely to the Time by thee appointed for my Judgment, with this Confidence and Truſt, That thy Divine Goodneſs will not then caſt me off, but will it ſelf anſwer for me to thy Juſtice, and that I ſhall eternally ſing of, and ce<g ref="char:EOLhyphen"/>lebrate, thy Mercies World without end.</p>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
